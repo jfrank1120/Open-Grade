@@ -13,4 +13,5 @@ def root():
 # Main Method, Nothing to see here
 if __name__ == '__main__':
     log("running server", __name__)
+
     app.run(host='127.0.0.1', port=8080, debug=True)
