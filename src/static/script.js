@@ -82,3 +82,7 @@ function getData(targetUrl, callbackFunction) {
 
 var fake_son = {}
 function fake_callback() {}
+
+function populate_course_data(course_data) {
+
+}
